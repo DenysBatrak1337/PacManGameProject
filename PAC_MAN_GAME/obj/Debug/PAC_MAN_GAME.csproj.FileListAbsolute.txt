@@ -1,0 +1,15 @@
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\bin\Debug\PAC_MAN_GAME.exe.config
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\bin\Debug\PAC_MAN_GAME.exe
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\bin\Debug\PAC_MAN_GAME.pdb
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.csproj.AssemblyReference.cache
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.LevelForm.resources
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.Properties.Resources.resources
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.csproj.GenerateResource.cache
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.csproj.CoreCompileInputs.cache
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.exe
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.pdb
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.InitialForm.resources
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.LoginForm.resources
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.MainMenuForm.resources
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.RegisterForm.resources
+C:\Users\maxba\Desktop\Новая папка\Денис\3 курс\КУРС2\PAC_MAN_GAME\PAC_MAN_GAME\obj\Debug\PAC_MAN_GAME.SettingForm.resources
